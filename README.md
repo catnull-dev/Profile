@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @devnull_ros
-- 👀 I’m interested in Robotics, IoT and computer vision
+- 👋 Hi, I’m @catnull_ros
+- 👀 I’m interested in Robotics, IoT, computer vision, DevOPS.
 - 🌱 I’m currently learning ROS, CV, math, Robotics and programming
 
 <!---
